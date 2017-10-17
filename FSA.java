@@ -88,7 +88,7 @@ public class FSA {
 	}
 	
 	
-	
+	//Main worker.
 	private static void processMachine(ArrayList<String> list, String[] alphabet, String[][] transistions, String[] finalStates)
 	{
 		
